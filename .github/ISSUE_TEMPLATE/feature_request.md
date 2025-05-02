@@ -4,6 +4,7 @@ about: Suggest a new feature or improvement for Orb
 title: "[Feature] "
 labels: enhancement
 assignees: ''
+type: Feature
 
 ---
 
