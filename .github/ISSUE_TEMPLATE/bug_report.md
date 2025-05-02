@@ -4,6 +4,7 @@ about: Report a bug to help us improve Orb
 title: "[Bug] "
 labels: bug
 assignees: ''
+type: Bug
 
 ---
 
